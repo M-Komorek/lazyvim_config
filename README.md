@@ -13,7 +13,7 @@ This repository contains a custom configuration for [LazyVim](https://github.com
 ## 🚀 Installation
 
 1. **Prerequisites**:
-   - Ensure you meet all requirements [LazyVim]([https://neovim.io/](http://www.lazyvim.org/)).
+   - Ensure you meet all requirements to run [LazyVim](https://github.com/LazyVim/LazyVim).
    - Backup your existing configuration (if any):
      ```bash
      mv ~/.config/nvim ~/.config/nvim.bak
